@@ -1,1 +1,1 @@
-alert("Example Alert");
+alert("YOOOOOO");
